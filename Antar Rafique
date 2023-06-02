@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 FN;CHARSET=UTF-8:Antar Rafique
 N;CHARSET=UTF-8:Rafique;Antar;;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:antar.rafique@alliedglobaladvisors.com
+EMAIL;CHARSET=UTF-8;type=EMAIL,INTERNET:antar.rafique@alliedglobaladvisors.com
 LOGO;ENCODING=b;TYPE=PNG:IMAGEDATA..
 PHOTO;ENCODING=b;TYPE=PNG:IMAGEDATA..
 TEL;TYPE=CELL:+966506452908
 TITLE;CHARSET=UTF-8:Principal
 ORG;CHARSET=UTF-8:Allied Global Advisors
-URL;type=WORK;CHARSET=UTF-8:www.alliedglobaladvisors.com
+URL;type=WEBSITE;CHARSET=UTF-8:www.alliedglobaladvisors.com
 REV:2023-06-02T14:12:18.449Z
 END:VCARD
